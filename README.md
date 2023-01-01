@@ -1,4 +1,6 @@
 # 공동주택정보
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ### Project URL
 - http://kaptmap.ap-northeast-2.elasticbeanstalk.com
 ---
